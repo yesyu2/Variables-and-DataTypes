@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\training\degisken\bin\Debug\net7.0\degisken.exe
+C:\Users\HP\Desktop\training\degisken\bin\Debug\net7.0\degisken.deps.json
+C:\Users\HP\Desktop\training\degisken\bin\Debug\net7.0\degisken.runtimeconfig.json
+C:\Users\HP\Desktop\training\degisken\bin\Debug\net7.0\degisken.dll
+C:\Users\HP\Desktop\training\degisken\bin\Debug\net7.0\degisken.pdb
+C:\Users\HP\Desktop\training\degisken\obj\Debug\net7.0\degisken.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\training\degisken\obj\Debug\net7.0\degisken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\training\degisken\obj\Debug\net7.0\degisken.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\training\degisken\obj\Debug\net7.0\degisken.AssemblyInfo.cs
+C:\Users\HP\Desktop\training\degisken\obj\Debug\net7.0\degisken.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\training\degisken\obj\Debug\net7.0\degisken.dll
+C:\Users\HP\Desktop\training\degisken\obj\Debug\net7.0\refint\degisken.dll
+C:\Users\HP\Desktop\training\degisken\obj\Debug\net7.0\degisken.pdb
+C:\Users\HP\Desktop\training\degisken\obj\Debug\net7.0\degisken.genruntimeconfig.cache
+C:\Users\HP\Desktop\training\degisken\obj\Debug\net7.0\ref\degisken.dll
